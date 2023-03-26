@@ -1,5 +1,6 @@
 # GOcaml
-An OCaml implementation of the game Go
+An OCaml implementation of the game Go.
+This project was made by Banpreet Singh, Cameron Russel, and Chuiqi Meng.
 
 ## How to Play
 
